@@ -1,0 +1,12 @@
+[
+	{
+		"owner": "test",
+		"cells": [
+			{
+				"face": 0,
+				"location": [0, 0],
+				"color": "cyan"
+			}
+		]
+	}
+]
